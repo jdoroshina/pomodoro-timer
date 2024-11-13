@@ -1,0 +1,23 @@
+# System-specific files
+.DS_Store            # macOS system file
+Thumbs.db            # Windows system file
+
+# IDE-specific files
+.vscode/             # VS Code configuration
+.idea/               # JetBrains IDEs (e.g., WebStorm, IntelliJ)
+*.sublime*           # Sublime Text configuration
+
+# Logs
+*.log                # Log files
+npm-debug.log*       # npm debug logs
+
+# Build and output directories
+build/               # Build output directory
+
+# Dependency directories
+node_modules/        # npm packages
+
+# Design files (optional to ignore, depending on project needs)
+*.ai                 # Adobe Illustrator files
+*.pdf                # PDF files
+*.psd                # Adobe Photoshop files
